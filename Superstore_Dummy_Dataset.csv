@@ -1,0 +1,101 @@
+Order Date,Ship Date,Region,State,Category,Sub-Category,Sales,Quantity,Discount,Profit
+2014-01-01,2014-01-05,West,California,Technology,Phones,361,3,0.16,10.77
+2014-01-08,2014-01-12,West,Pennsylvania,Technology,Chairs,668,1,0.29,24.76
+2014-01-15,2014-01-19,East,California,Furniture,Chairs,120,2,0.16,27.58
+2014-01-22,2014-01-26,West,Washington,Furniture,Phones,768,2,0.49,27.01
+2014-01-29,2014-02-02,East,New York,Office Supplies,Tables,918,2,0.5,32.4
+2014-02-05,2014-02-09,Central,Pennsylvania,Office Supplies,Phones,244,4,0.2,15.43
+2014-02-12,2014-02-16,Central,Washington,Technology,Phones,794,3,0.28,38.34
+2014-02-19,2014-02-23,Central,New York,Furniture,Tables,771,3,0.35,11.64
+2014-02-26,2014-03-02,West,California,Furniture,Binders,808,3,0.15,27.05
+2014-03-05,2014-03-09,Central,Washington,Office Supplies,Binders,432,2,0.5,5.12
+2014-03-12,2014-03-16,South,California,Office Supplies,Binders,305,3,0.02,33.75
+2014-03-19,2014-03-23,South,Washington,Furniture,Chairs,593,4,0.11,49.63
+2014-03-26,2014-03-30,West,Texas,Office Supplies,Chairs,926,2,0.3,6.96
+2014-04-02,2014-04-06,West,Pennsylvania,Office Supplies,Binders,686,4,0.16,40.89
+2014-04-09,2014-04-13,South,Pennsylvania,Technology,Binders,404,4,0.35,48.35
+2014-04-16,2014-04-20,South,New York,Office Supplies,Tables,669,2,0.15,22.54
+2014-04-23,2014-04-27,Central,Texas,Furniture,Tables,904,3,0.39,5.14
+2014-04-30,2014-05-04,West,New York,Furniture,Chairs,531,4,0.31,7.16
+2014-05-07,2014-05-11,South,Pennsylvania,Furniture,Phones,651,2,0.16,20.71
+2014-05-14,2014-05-18,South,Pennsylvania,Technology,Binders,713,4,0.48,0.07
+2014-05-21,2014-05-25,South,Washington,Office Supplies,Phones,494,2,0.22,41.6
+2014-05-28,2014-06-01,West,Pennsylvania,Office Supplies,Chairs,107,4,0.32,13.2
+2014-06-04,2014-06-08,West,California,Furniture,Chairs,720,1,0.13,11.74
+2014-06-11,2014-06-15,Central,New York,Furniture,Chairs,894,1,0.38,5.02
+2014-06-18,2014-06-22,East,Pennsylvania,Technology,Tables,805,4,0.46,1.51
+2014-06-25,2014-06-29,Central,Pennsylvania,Furniture,Phones,571,1,0.04,34.75
+2014-07-02,2014-07-06,West,California,Office Supplies,Chairs,539,3,0.11,16.17
+2014-07-09,2014-07-13,Central,Texas,Office Supplies,Tables,370,2,0.3,10.75
+2014-07-16,2014-07-20,West,Texas,Technology,Chairs,246,1,0.45,2.04
+2014-07-23,2014-07-27,West,Texas,Furniture,Tables,847,3,0.36,33.32
+2014-07-30,2014-08-03,South,Pennsylvania,Technology,Phones,323,4,0.1,38.9
+2014-08-06,2014-08-10,Central,Texas,Technology,Tables,749,2,0.41,28.05
+2014-08-13,2014-08-17,East,Texas,Furniture,Binders,156,4,0.27,47.19
+2014-08-20,2014-08-24,South,Texas,Technology,Binders,311,1,0.2,19.94
+2014-08-27,2014-08-31,West,New York,Technology,Binders,718,1,0.19,8.58
+2014-09-03,2014-09-07,South,Washington,Office Supplies,Tables,598,4,0.22,36.46
+2014-09-10,2014-09-14,Central,Washington,Furniture,Tables,537,1,0.31,27.63
+2014-09-17,2014-09-21,South,Texas,Technology,Chairs,421,1,0.26,6.82
+2014-09-24,2014-09-28,South,California,Technology,Binders,395,2,0.26,45.71
+2014-10-01,2014-10-05,Central,Texas,Office Supplies,Tables,677,2,0.35,35.18
+2014-10-08,2014-10-12,Central,Washington,Office Supplies,Binders,701,1,0.4,21.9
+2014-10-15,2014-10-19,Central,California,Office Supplies,Binders,488,4,0.44,42.01
+2014-10-22,2014-10-26,West,New York,Technology,Tables,859,4,0.17,38.58
+2014-10-29,2014-11-02,West,Washington,Technology,Tables,975,2,0.18,33.35
+2014-11-05,2014-11-09,South,California,Technology,Phones,984,4,0.09,36.41
+2014-11-12,2014-11-16,South,New York,Furniture,Chairs,246,3,0.05,42.09
+2014-11-19,2014-11-23,West,Pennsylvania,Technology,Chairs,324,3,0.24,30.17
+2014-11-26,2014-11-30,East,New York,Technology,Chairs,789,4,0.01,13.93
+2014-12-03,2014-12-07,South,California,Furniture,Binders,850,3,0.27,42.41
+2014-12-10,2014-12-14,East,Pennsylvania,Office Supplies,Binders,380,3,0.14,4.64
+2014-12-17,2014-12-21,South,California,Technology,Binders,622,3,0.08,45.86
+2014-12-24,2014-12-28,West,California,Technology,Phones,843,1,0.42,46.64
+2014-12-31,2015-01-04,Central,Washington,Office Supplies,Binders,319,3,0.45,7.52
+2015-01-07,2015-01-11,West,Washington,Technology,Chairs,251,1,0.21,43.4
+2015-01-14,2015-01-18,South,California,Furniture,Binders,357,1,0.05,37.47
+2015-01-21,2015-01-25,East,California,Technology,Chairs,394,3,0.26,31.69
+2015-01-28,2015-02-01,South,California,Technology,Binders,896,4,0.03,31.08
+2015-02-04,2015-02-08,Central,Pennsylvania,Technology,Phones,141,4,0.14,37.65
+2015-02-11,2015-02-15,West,Washington,Technology,Tables,221,4,0.46,35.97
+2015-02-18,2015-02-22,East,New York,Furniture,Binders,783,3,0.22,4.06
+2015-02-25,2015-03-01,East,California,Furniture,Phones,277,3,0.1,31.55
+2015-03-04,2015-03-08,Central,Texas,Office Supplies,Phones,358,2,0.36,20.32
+2015-03-11,2015-03-15,West,Texas,Office Supplies,Binders,849,4,0.27,36.99
+2015-03-18,2015-03-22,West,Pennsylvania,Furniture,Phones,481,2,0.17,5.41
+2015-03-25,2015-03-29,South,Pennsylvania,Furniture,Chairs,239,3,0.19,19.08
+2015-04-01,2015-04-05,Central,California,Technology,Binders,476,2,0.39,10.13
+2015-04-08,2015-04-12,West,Pennsylvania,Technology,Phones,328,1,0.18,49.47
+2015-04-15,2015-04-19,East,California,Office Supplies,Chairs,208,2,0.17,6.78
+2015-04-22,2015-04-26,East,Texas,Technology,Phones,388,1,0.2,34.9
+2015-04-29,2015-05-03,South,California,Office Supplies,Phones,562,4,0.05,0.82
+2015-05-06,2015-05-10,South,Texas,Furniture,Binders,706,3,0.22,12.84
+2015-05-13,2015-05-17,West,California,Technology,Phones,876,4,0.09,45.67
+2015-05-20,2015-05-24,South,California,Office Supplies,Tables,172,3,0.05,47.07
+2015-05-27,2015-05-31,West,New York,Technology,Binders,142,2,0.28,26.58
+2015-06-03,2015-06-07,West,Pennsylvania,Office Supplies,Tables,879,3,0.27,15.41
+2015-06-10,2015-06-14,Central,California,Technology,Chairs,996,3,0.03,29.3
+2015-06-17,2015-06-21,East,Texas,Office Supplies,Chairs,132,4,0.18,23.18
+2015-06-24,2015-06-28,Central,Texas,Office Supplies,Tables,528,2,0.23,20.28
+2015-07-01,2015-07-05,Central,Washington,Furniture,Binders,248,4,0.0,9.91
+2015-07-08,2015-07-12,Central,Washington,Technology,Phones,740,2,0.31,18.88
+2015-07-15,2015-07-19,East,New York,Office Supplies,Binders,892,1,0.07,17.12
+2015-07-22,2015-07-26,South,Texas,Office Supplies,Chairs,944,1,0.35,36.06
+2015-07-29,2015-08-02,East,New York,Technology,Phones,698,3,0.1,45.39
+2015-08-05,2015-08-09,West,Texas,Office Supplies,Tables,692,1,0.25,16.25
+2015-08-12,2015-08-16,Central,Pennsylvania,Furniture,Tables,131,3,0.07,23.67
+2015-08-19,2015-08-23,Central,Washington,Furniture,Tables,981,2,0.31,29.59
+2015-08-26,2015-08-30,West,New York,Office Supplies,Phones,512,1,0.0,0.01
+2015-09-02,2015-09-06,Central,Washington,Office Supplies,Binders,636,2,0.34,40.77
+2015-09-09,2015-09-13,South,Pennsylvania,Furniture,Chairs,256,3,0.42,36.38
+2015-09-16,2015-09-20,East,California,Furniture,Tables,108,2,0.07,29.67
+2015-09-23,2015-09-27,East,Texas,Furniture,Tables,239,3,0.25,20.86
+2015-09-30,2015-10-04,East,New York,Technology,Tables,517,3,0.12,8.7
+2015-10-07,2015-10-11,South,New York,Technology,Chairs,927,3,0.45,40.47
+2015-10-14,2015-10-18,South,Washington,Furniture,Chairs,270,2,0.02,35.44
+2015-10-21,2015-10-25,Central,Washington,Furniture,Chairs,132,3,0.12,36.93
+2015-10-28,2015-11-01,West,Texas,Furniture,Chairs,503,3,0.38,43.2
+2015-11-04,2015-11-08,East,California,Technology,Phones,241,4,0.39,43.89
+2015-11-11,2015-11-15,South,Pennsylvania,Office Supplies,Phones,180,4,0.46,46.51
+2015-11-18,2015-11-22,South,New York,Technology,Binders,503,3,0.33,13.26
+2015-11-25,2015-11-29,Central,Pennsylvania,Office Supplies,Chairs,432,4,0.21,18.49
